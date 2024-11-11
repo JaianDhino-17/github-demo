@@ -1,0 +1,40 @@
+.login{
+    border: 1px solid;
+    padding: 5px;
+}
+.login_head{
+   margin-bottom: 5px;
+   padding-bottom: 5px;
+    border-bottom: 2px solid;
+    margin-top: 10px;
+}
+.checkbox{
+    position: relative;
+    left: 50px;
+    top: -19px;
+}
+.login_head1{
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+     border-bottom: 2px solid;
+    margin-top: 10px;
+}
+.radio{
+    position: relative;
+    left: 60px;
+    top: -19px;
+    
+    
+}
+.login_head2{
+    border-bottom: 2px solid;
+}
+.rs{
+    padding: 10px;
+    border-bottom: 2px solid;
+
+}
+.ok{
+    padding: 10px;
+    border-bottom: 2px solid;
+}
